@@ -20,6 +20,9 @@ Libraries :
 - requests
 - csv
 
+## Resultado:
+Una vez ejecutado el script, el output debería ser un archivo csv con los datos de los objetos de la página scrapeada.
+
 ## Autores:
 - Karen Noemí Riveros Genes | UPA - TIE| Cohorte 2019 
 - Pablo Daniel Pedrozo Ramírez | UPA - TIE| Cohorte 2019 
