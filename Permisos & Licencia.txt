@@ -1,0 +1,2 @@
+## Permisos y licencia:
+Para la realización de este trabajo, se hizo un web scraping de los datos públicos del supermercado stock. El mismo no especifica ninguna licencia acerca del uso de los datos, pero en sus condiciones de uso aclara que los datos están disponibles sólo para uso comercial del retail. Por esta razón, como autores del trabajo, declaramos estar bajo nuestro propio riesgo al momento de realizar el web scraping.
